@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AIAndroid</string>
+    <string name="action_ok">OK</string>
+    <string name="baking_title">AI Android integration</string>
+    <string name="label_prompt">Text Prompt</string>
+    <string name="prompt_placeholder">Tell me about this image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
